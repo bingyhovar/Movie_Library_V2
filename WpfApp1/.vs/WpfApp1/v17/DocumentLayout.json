@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|c:\\users\\bingy\\desktop\\git repos\\movie-library-crud\\mvc_movie_library-main\\wpfapp1\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F96DCE-84C9-404E-95D1-579089AAACBC}|WpfApp1.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:19:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-29T20:32:05.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:27:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieRepository.cs",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\MovieRepository.cs",
+              "RelativeToolTip": "MovieRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:14:16.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T17:07:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAkwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:07:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:20:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bingy\\Desktop\\GIt Repos\\Movie-Library-CRUD\\MVC_MOVIE_LIBRARY-main\\WpfApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:42:49.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

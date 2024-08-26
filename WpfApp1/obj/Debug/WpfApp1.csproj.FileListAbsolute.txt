@@ -1,0 +1,36 @@
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\App.g.cs
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\bingy\Desktop\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\App.g.cs
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\bingy\Desktop\GIt Repos\Movie-Library-CRUD\MVC_MOVIE_LIBRARY-main\WpfApp1\obj\Debug\WpfApp1.pdb
